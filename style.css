@@ -64,4 +64,7 @@ body{
     .panel.active{
        grid-column: 1/-1;
     }
+    .panel h3{
+        font-size: 14px;
+    }
 }
